@@ -12,6 +12,7 @@ const Navbar = () => {
                 <div className=' border-b border-gray-200'>
                     <div className='flex h-16 items-center'>
                         {/* todo: mobile nav */}
+
                         <div className=' ml-4 flex lg:ml-0'>
                             {/* logo */}
                             <Link href={'/'}>
@@ -21,6 +22,12 @@ const Navbar = () => {
                         <div className=' hidden zoom-out-50 lg:ml-8 lg:block lg:self-stretch '>
                             <NavItems />
                         </div>
+                        <div className=' ml-auto  flex items-center '>
+                            <div className=' hidden lg:flex lg:flex-1  lg:items-center lg:justify-end lg:space-x-6 '>
+                              
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 

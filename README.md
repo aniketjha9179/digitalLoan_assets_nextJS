@@ -35,9 +35,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+<!-- shortkey learning  -->
+##Short-cuts to remember as a developer (good)
 1:to get of from unnecessary import click on shift+alt+o
-
 2:to fast copy and paste click shift+alt+arrowDow
 3:to reload developer window shift+ctrl+p
 4:selecting duplicate element  cntl+D.
 5:to get suggestion click on ctrl+spacebar
+6:KeyboardEvent //is short_hand for (event)=>handler(event)
